@@ -1,4 +1,4 @@
-package com.user.dao;
+package com.testify.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,8 @@ import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.List;
-import com.user.model.User;
+
+import com.testify.model.User;
 
 public class UserDAO {
     private String jdbcURL = "jdbc:mysql://localhost:30006/testifydb";

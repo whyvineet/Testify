@@ -1,4 +1,4 @@
-package com.user.model;
+package com.testify.model;
 
 import java.sql.Timestamp;
 
