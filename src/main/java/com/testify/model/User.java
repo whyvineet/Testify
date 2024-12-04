@@ -8,13 +8,12 @@ public class User {
     private String lastname;
     private String email;
     private String passwrd;
-    private String userRole; // Enum values: "educator" or "student"
+    private String userRole;
     private Timestamp createdAt;
     private Timestamp updatedAt;
     
 	public User() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public User(int id, String firstname, String lastname, String email, String passwrd, String userRole,
 			Timestamp createdAt, Timestamp updatedAt) {
