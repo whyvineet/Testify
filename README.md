@@ -5,8 +5,6 @@ Testify is an online exam management platform designed for educators and student
 
 ## Key Features
 
-### User Management
-
 * **Role-Specific Access**:
   * Educators and students can sign up and log in with secure authentication.
   * Educators have the ability to create exams, manage question banks, and review performance.
